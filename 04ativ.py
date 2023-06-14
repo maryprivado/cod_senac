@@ -1,1 +1,1 @@
-print()
+print('ola, mundo senac')
